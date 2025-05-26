@@ -150,10 +150,10 @@ const ContactPage = () => {
               >
                 <FiCheckCircle className="w-16 h-16 text-green-500 mx-auto" />
                 <h3 className="text-2xl font-semibold text-gray-900">
-                  Message Sent Successfully!
+                  Message Sent Successfully! To Max
                 </h3>
                 <p className="text-gray-600">
-                  Thank you for contacting us. We'll get back to you soon.
+                  Thank you for contacting us. We ll get back to you soon.
                 </p>
               </motion.div>
             )}
