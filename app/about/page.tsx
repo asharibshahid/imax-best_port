@@ -135,27 +135,25 @@ As a graphic designer, I visually communicate messages, ideas, and concepts thro
   );
 };
 const experience = [
-    {
-      period: '2023 - Present',
-      title: 'Freelance Graphic Designer',
-      company: 'Ndabaga Freelancing',
-      description: 'Independent creative solutions for diverse clients'
-     
-    },
-    {
-      period: '2021 - 2023',
-      title: 'Official Graphic Designer',
-      company: 'Maran Design Ltd',
-      description: 'Brand identity and digital asset creation'
-      
-    },
-    {
-      period: '2018 - 2021',
-      title: 'Graphic Designer',
-      company: 'SMART DESIGN LTD',
-      description: 'Digital graphics and interface design',
-      
-    }
+   {
+  period: '2023 - 2026',
+  title: 'Graphic Designer',
+  company: 'Maran Design Ltd',
+  description: 'Brand identity and digital asset creation',
+},
+{
+  period: '2023 - 2026',
+  title: 'Freelance Graphic Designer',
+  company: 'Ndabaga (Part-time)',
+  description: 'Independent creative solutions for diverse clients',
+},
+{
+  period: '2021 - 2023',
+  title: 'Graphic Designer',
+  company: 'Smart Design',
+  description: 'Digital graphics and interface design',
+}
+
   ];
 
 export default AboutPage;
