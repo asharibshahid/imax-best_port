@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 1, delay: 1 }}
         >
           Transforming ideas into stunning visuals that inspire and engage.
-          Lets create something extraordinary together.
+          Lets create something extraordinary together. ||||||| NON PAID ||||||
         </motion.p>
 
         {/* Call-to-Action Buttons */}
