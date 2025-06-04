@@ -17,8 +17,8 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <img
-            src="/img.jpg"
-            alt="Designer"
+            src="/i.jpg"
+            alt="||NON PAID||"
             className="w-full h-full object-cover "
           />
         </motion.div>
@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 1 }}
         >
-          Transforming ideas into stunning visuals that inspire and engage.
+         |||NON PAID||| Transforming ideas into  |||NON PAID |||that inspire and engage.
           Lets create something extraordinary together. ||||||| NON PAID ||||||
         </motion.p>
 
